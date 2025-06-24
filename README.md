@@ -1,5 +1,5 @@
 # Nexus Node
-### Running Nexus CLI Node in VPS with one line command code
+### Running Nexus CLI Node in VPS 
 
 1. Running Nexus CLI Node in VPS with one line command code
 
