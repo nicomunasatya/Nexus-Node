@@ -12,3 +12,5 @@
    ```
 ### Output
 
+![Output Gambar](https://raw.githubusercontent.com/nicomunasatya/Nexus-Node/main/img/output.jpg)
+
